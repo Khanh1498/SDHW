@@ -1,0 +1,56 @@
+[0.548s] Invoking command in '/home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/src/gazebo_environment': PYTHONPATH=/home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/build/gazebo_environment/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/gazebo_environment/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/gazebo_environment build --build-base /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/build/gazebo_environment/build install --record /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/build/gazebo_environment/install.log --single-version-externally-managed install_data
+[0.719s] running egg_info
+[0.720s] creating ../../build/gazebo_environment/gazebo_environment.egg-info
+[0.720s] writing ../../build/gazebo_environment/gazebo_environment.egg-info/PKG-INFO
+[0.721s] writing dependency_links to ../../build/gazebo_environment/gazebo_environment.egg-info/dependency_links.txt
+[0.721s] writing entry points to ../../build/gazebo_environment/gazebo_environment.egg-info/entry_points.txt
+[0.721s] writing requirements to ../../build/gazebo_environment/gazebo_environment.egg-info/requires.txt
+[0.722s] writing top-level names to ../../build/gazebo_environment/gazebo_environment.egg-info/top_level.txt
+[0.723s] writing manifest file '../../build/gazebo_environment/gazebo_environment.egg-info/SOURCES.txt'
+[0.723s] reading manifest file '../../build/gazebo_environment/gazebo_environment.egg-info/SOURCES.txt'
+[0.724s] writing manifest file '../../build/gazebo_environment/gazebo_environment.egg-info/SOURCES.txt'
+[0.725s] running build
+[0.725s] running build_py
+[0.725s] creating /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/build/gazebo_environment/build
+[0.725s] creating /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/build/gazebo_environment/build/lib
+[0.725s] creating /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/build/gazebo_environment/build/lib/gazebo_environment
+[0.725s] copying gazebo_environment/odometry_tf.py -> /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/build/gazebo_environment/build/lib/gazebo_environment
+[0.726s] copying gazebo_environment/__init__.py -> /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/build/gazebo_environment/build/lib/gazebo_environment
+[0.726s] running install
+[0.727s] running install_lib
+[0.727s] creating /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/gazebo_environment/lib/python3.10/site-packages/gazebo_environment
+[0.727s] copying /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/build/gazebo_environment/build/lib/gazebo_environment/odometry_tf.py -> /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/gazebo_environment/lib/python3.10/site-packages/gazebo_environment
+[0.727s] copying /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/build/gazebo_environment/build/lib/gazebo_environment/__init__.py -> /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/gazebo_environment/lib/python3.10/site-packages/gazebo_environment
+[0.728s] byte-compiling /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/gazebo_environment/lib/python3.10/site-packages/gazebo_environment/odometry_tf.py to odometry_tf.cpython-310.pyc
+[0.728s] byte-compiling /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/gazebo_environment/lib/python3.10/site-packages/gazebo_environment/__init__.py to __init__.cpython-310.pyc
+[0.729s] running install_data
+[0.729s] creating /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/gazebo_environment/share/ament_index
+[0.729s] creating /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/gazebo_environment/share/ament_index/resource_index
+[0.729s] creating /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/gazebo_environment/share/ament_index/resource_index/packages
+[0.729s] copying resource/gazebo_environment -> /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/gazebo_environment/share/ament_index/resource_index/packages
+[0.729s] copying package.xml -> /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/gazebo_environment/share/gazebo_environment
+[0.729s] creating /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/gazebo_environment/share/gazebo_environment/urdf
+[0.729s] copying urdf/robot.urdf -> /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/gazebo_environment/share/gazebo_environment/urdf
+[0.729s] copying urdf/robott.urdf -> /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/gazebo_environment/share/gazebo_environment/urdf
+[0.730s] copying urdf/tutorial_robot.urdf -> /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/gazebo_environment/share/gazebo_environment/urdf
+[0.730s] copying urdf/diff_drive_robot.urdf -> /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/gazebo_environment/share/gazebo_environment/urdf
+[0.730s] copying urdf/common_properties.urdf.xacro -> /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/gazebo_environment/share/gazebo_environment/urdf
+[0.730s] copying urdf/oakd.urdf.xacro -> /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/gazebo_environment/share/gazebo_environment/urdf
+[0.730s] creating /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/gazebo_environment/share/gazebo_environment/meshes
+[0.730s] copying meshes/smart_car.obj -> /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/gazebo_environment/share/gazebo_environment/meshes
+[0.734s] copying meshes/oakd_pro.dae -> /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/gazebo_environment/share/gazebo_environment/meshes
+[0.747s] creating /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/gazebo_environment/share/gazebo_environment/worlds
+[0.747s] copying worlds/demo_world.sdf -> /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/gazebo_environment/share/gazebo_environment/worlds
+[0.747s] copying worlds/sonoma.sdf -> /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/gazebo_environment/share/gazebo_environment/worlds
+[0.747s] creating /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/gazebo_environment/share/gazebo_environment/launch
+[0.747s] copying launch/simulation.launch.py -> /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/gazebo_environment/share/gazebo_environment/launch
+[0.748s] copying launch/rviz.launch.py -> /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/gazebo_environment/share/gazebo_environment/launch
+[0.748s] copying launch/sonoma.launch.py -> /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/gazebo_environment/share/gazebo_environment/launch
+[0.748s] creating /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/gazebo_environment/share/gazebo_environment/rviz
+[0.748s] copying rviz/config.rviz -> /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/gazebo_environment/share/gazebo_environment/rviz
+[0.748s] running install_egg_info
+[0.750s] Copying ../../build/gazebo_environment/gazebo_environment.egg-info to /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/gazebo_environment/lib/python3.10/site-packages/gazebo_environment-1.0.0-py3.10.egg-info
+[0.750s] running install_scripts
+[0.768s] Installing odometry_tf script to /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/gazebo_environment/lib/gazebo_environment
+[0.768s] writing list of installed files to '/home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/build/gazebo_environment/install.log'
+[0.786s] Invoked command in '/home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/src/gazebo_environment' returned '0': PYTHONPATH=/home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/build/gazebo_environment/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/gazebo_environment/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/gazebo_environment build --build-base /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/build/gazebo_environment/build install --record /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/build/gazebo_environment/install.log --single-version-externally-managed install_data

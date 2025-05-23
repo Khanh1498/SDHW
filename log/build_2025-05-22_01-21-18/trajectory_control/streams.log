@@ -1,0 +1,25 @@
+[0.564s] Invoking command in '/home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/src/trajectory_control': PYTHONPATH=/home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/build/trajectory_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/trajectory_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/trajectory_control build --build-base /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/build/trajectory_control/build install --record /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/build/trajectory_control/install.log --single-version-externally-managed install_data
+[0.775s] running egg_info
+[0.775s] writing ../../build/trajectory_control/trajectory_control.egg-info/PKG-INFO
+[0.775s] writing dependency_links to ../../build/trajectory_control/trajectory_control.egg-info/dependency_links.txt
+[0.775s] writing entry points to ../../build/trajectory_control/trajectory_control.egg-info/entry_points.txt
+[0.777s] writing requirements to ../../build/trajectory_control/trajectory_control.egg-info/requires.txt
+[0.777s] writing top-level names to ../../build/trajectory_control/trajectory_control.egg-info/top_level.txt
+[0.777s] reading manifest file '../../build/trajectory_control/trajectory_control.egg-info/SOURCES.txt'
+[0.778s] writing manifest file '../../build/trajectory_control/trajectory_control.egg-info/SOURCES.txt'
+[0.780s] running build
+[0.780s] running build_py
+[0.780s] running install
+[0.783s] running install_lib
+[0.783s] running install_data
+[0.783s] copying resource/sonoma_waypoints.txt -> /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/trajectory_control/share/ament_index/resource_index/packages
+[0.783s] copying package.xml -> /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/trajectory_control/share/trajectory_control
+[0.783s] creating /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/trajectory_control/share/trajectory_control/resource
+[0.783s] copying resource/sonoma_waypoints.txt -> /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/trajectory_control/share/trajectory_control/resource
+[0.785s] running install_egg_info
+[0.785s] Copying ../../build/trajectory_control/trajectory_control.egg-info to /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/trajectory_control/lib/python3.10/site-packages/trajectory_control-0.0.0-py3.10.egg-info
+[0.787s] running install_scripts
+[0.807s] Installing pure_pursuit script to /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/trajectory_control/lib/trajectory_control
+[0.808s] Installing waypoint_publisher script to /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/trajectory_control/lib/trajectory_control
+[0.808s] writing list of installed files to '/home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/build/trajectory_control/install.log'
+[0.827s] Invoked command in '/home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/src/trajectory_control' returned '0': PYTHONPATH=/home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/build/trajectory_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/trajectory_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/trajectory_control build --build-base /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/build/trajectory_control/build install --record /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/build/trajectory_control/install.log --single-version-externally-managed install_data

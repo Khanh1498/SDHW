@@ -1,0 +1,32 @@
+running egg_info
+creating ../../build/trajectory_control/trajectory_control.egg-info
+writing ../../build/trajectory_control/trajectory_control.egg-info/PKG-INFO
+writing dependency_links to ../../build/trajectory_control/trajectory_control.egg-info/dependency_links.txt
+writing entry points to ../../build/trajectory_control/trajectory_control.egg-info/entry_points.txt
+writing requirements to ../../build/trajectory_control/trajectory_control.egg-info/requires.txt
+writing top-level names to ../../build/trajectory_control/trajectory_control.egg-info/top_level.txt
+writing manifest file '../../build/trajectory_control/trajectory_control.egg-info/SOURCES.txt'
+reading manifest file '../../build/trajectory_control/trajectory_control.egg-info/SOURCES.txt'
+writing manifest file '../../build/trajectory_control/trajectory_control.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/build/trajectory_control/build
+creating /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/build/trajectory_control/build/lib
+creating /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/build/trajectory_control/build/lib/trajectory_control
+copying trajectory_control/pid_controller.py -> /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/build/trajectory_control/build/lib/trajectory_control
+copying trajectory_control/__init__.py -> /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/build/trajectory_control/build/lib/trajectory_control
+copying trajectory_control/pure_persuit.py -> /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/build/trajectory_control/build/lib/trajectory_control
+running install
+running install_lib
+creating /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/trajectory_control/lib/python3.10/site-packages/trajectory_control
+copying /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/build/trajectory_control/build/lib/trajectory_control/pid_controller.py -> /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/trajectory_control/lib/python3.10/site-packages/trajectory_control
+copying /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/build/trajectory_control/build/lib/trajectory_control/__init__.py -> /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/trajectory_control/lib/python3.10/site-packages/trajectory_control
+copying /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/build/trajectory_control/build/lib/trajectory_control/pure_persuit.py -> /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/trajectory_control/lib/python3.10/site-packages/trajectory_control
+byte-compiling /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/trajectory_control/lib/python3.10/site-packages/trajectory_control/pid_controller.py to pid_controller.cpython-310.pyc
+byte-compiling /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/trajectory_control/lib/python3.10/site-packages/trajectory_control/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/trajectory_control/lib/python3.10/site-packages/trajectory_control/pure_persuit.py to pure_persuit.cpython-310.pyc
+running install_data
+creating /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/trajectory_control/share/ament_index
+creating /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/trajectory_control/share/ament_index/resource_index
+creating /home/jonny/github-classroom/ITU-EMAV/trajectory-tracking-control-homework-2-team-jh/install/trajectory_control/share/ament_index/resource_index/packages
+error: can't copy 'resource/trajectory_control': doesn't exist or not a regular file
