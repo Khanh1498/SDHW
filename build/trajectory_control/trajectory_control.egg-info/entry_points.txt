@@ -1,0 +1,4 @@
+[console_scripts]
+pure_pursuit = trajectory_control.pure_pursuit:main
+waypoint_publisher = trajectory_control.waypoint_publisher:main
+
